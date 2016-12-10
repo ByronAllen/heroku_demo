@@ -8,7 +8,7 @@ I want to share that knowledge, so I developed this repository to assist anyone 
 
 ##### Directions (under construction)
 
-* Sign up to Herkou's free-tier https://signup.heroku.com/dc[https://signup.heroku.com/dc]
+* Sign up to Herkou's free-tier https://signup.heroku.com/dc
 * Create a new Twitter account or be ready to use your current account
-* Create a Twitter 'app' to obtain Twitter API authentication keys https://apps.twitter.com/[https://apps.twitter.com/]
-* Reference Heroku's 'Getting Started on Heroku with Python'[https://devcenter.heroku.com/articles/getting-started-with-python#introduction]
+* Create a Twitter 'app' to obtain Twitter API authentication keys https://apps.twitter.com/
+* Reference Heroku's 'Getting Started on Heroku with Python' https://devcenter.heroku.com/articles/getting-started-with-python#introduction 
