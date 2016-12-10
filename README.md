@@ -28,4 +28,4 @@ In mid-2016 I built at Twitter bot, @findmyatm. Through that process I learned h
 * Heroku will then initiate the program based on the Procfile
 * Enjoy the Twitter bot that spews jibberish every 30 seconds! :)
 * Turn it off with the 'heroku ps:scale worker=0' command (you'll want to do this so it  doesn't chew through all your dyno hours)
-* For more detail, reference Heroku's 'Getting Started on Heroku with Python' https://devcenter.heroku.com/articles/getting-started-with-python#introduction 
+* For more detail, reference Heroku's ['Getting Started on Heroku with Python'](https://devcenter.heroku.com/articles/getting-started-with-python#introduction)
